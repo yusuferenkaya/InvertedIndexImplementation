@@ -1,3 +1,2 @@
-Inverted Index Implementation
-
+# Inverted Index Implementation
 
